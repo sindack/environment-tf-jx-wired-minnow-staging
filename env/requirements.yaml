@@ -10,6 +10,9 @@ dependencies:
 - name: jx-python-app-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: python-jx-test2
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: skiapp
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.88
